@@ -24,7 +24,7 @@ author:
   avatar           : "jyk.png"
   name             : "Ji Yuekun"
   pronouns         : # example: "she/her"  
-  bio              : "A mathematic student"
+  bio              : "A mathematics student"
   location         : "Xi'an, China"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
@@ -71,7 +71,7 @@ author:
   # wikipedia        : # Username
   # xing             : # Username
   # youtube          : # Username
-  # zhihu            : # URL
+   zhihu            : # URL "https://jyknb.github.io/"
 
 
 # Site Settings
