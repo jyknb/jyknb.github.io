@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am an undergraduate student majoring in Plan for strengthening basic disciplines (Mathematics) at School of Mathematics and Statistics, Xi'an Jiaotong University.
 
-My learning interests are
+# Learning Interests
 1. Controllability of Partial Differential Equations
 2. Stochastic Partial Differential Equations
 3. Semiclassical Analysis
