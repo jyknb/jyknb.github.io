@@ -20,4 +20,5 @@ My learning interests are
 2022-2023学年第一学期 强基计划(数学类)必修课 [泛函分析](/images/泛函分析.pdf)\
 2023-2024学年第一学期 本科选修课 [黎曼几何](/images/Riemannian Geometry.pdf)
 
+\* There are countless silly typos in my notes, but I am too lazy to correct them unless you send me the corrected TeX codes directly. Please contact me if you want the TeX codes.
 
